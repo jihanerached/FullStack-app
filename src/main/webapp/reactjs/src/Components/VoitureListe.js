@@ -13,7 +13,7 @@ export default class VoitureListe extends Component {
             voitures: [],
             show: false,
             message: "",
-            type: "danger" // Ajout d'un état pour le type de notification
+            type: "danger" // Ajout état pour le type de notification
         };
     }
 
